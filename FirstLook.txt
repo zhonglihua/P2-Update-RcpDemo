@@ -1,0 +1,11 @@
+code目录下面为rcp代码，其中：
+   1.com.example.mail为一个最基本的RCP email
+   2.com.example.mail.feature为1增加"更新插件的功能"
+   3.com.example.mail.add为一个增加了邮件过滤的rcp程序(增加了过滤的view没加具体的点击操作)
+   4.com.example.mail.add.feature增加了邮件过滤的功能 (已经把更新的包放入http://192.168.0.126:8080/update里)
+
+EmailProduct目录下为一个email产品
+   下载使用后 可以通过help->install new software来跟新产品，使其具有邮件过滤功能
+    
+
+   更新地址为：http://192.168.0.126:8080/update

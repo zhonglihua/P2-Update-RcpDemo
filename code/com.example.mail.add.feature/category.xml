@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.example.mail.add.feature_1.0.0.qualifier.jar" id="com.example.mail.add.feature" version="1.0.0.qualifier">
+      <category name="com.example.mail.add"/>
+   </feature>
+   <feature url="features/com.example.mail.feature_1.0.0.qualifier.jar" id="com.example.mail.feature" version="1.0.0.qualifier">
+      <category name="com.example.mail.add"/>
+   </feature>
+   <category-def name="com.example.mail.add" label="New Category 1"/>
+</site>
